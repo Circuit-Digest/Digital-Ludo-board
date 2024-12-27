@@ -1,0 +1,192 @@
+(footprint "Tactile 3x4x2mm TS-A010"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.47736 -2.23784 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "1d991132-15d5-4112-9f55-fffc21583e59")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(property "Value" "Boot"
+		(at 0 3.85 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2a1fbe0d-dc56-43ce-9447-4aa44c7996bb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "3x4x2:Tactile 3x4x2mm TS-A010"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "62c243d8-6f5f-4436-9972-7af9e13ea04a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bc842276-84a4-4bc7-bdda-424478779840")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "08a2766f-1776-4169-8ad5-c6c0fc508e96")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC Part #" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "51b4706f-7e5d-4db7-aff4-45d2fbecd976")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 2.1 1.5)
+		(end -2.1 1.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b638bc27-0b02-4c7f-b236-847e1621427c")
+	)
+	(fp_line
+		(start 2.1 0)
+		(end 2.1 1.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "36825eab-b850-40e1-97c9-1bde8c0f750e")
+	)
+	(fp_line
+		(start 2.1 -1.5)
+		(end 2.1 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7235171a-61b6-44c5-b017-a67b2c47011a")
+	)
+	(fp_line
+		(start -2.1 1.5)
+		(end -2.1 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e88d85f7-e435-4776-aa5d-49f49c21649e")
+	)
+	(fp_line
+		(start -2.1 0)
+		(end -2.1 -1.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0388f7f0-894a-4643-ab23-18c194daa29a")
+	)
+	(fp_line
+		(start -2.1 -1.5)
+		(end 2.1 -1.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "080d947e-901f-43c7-954e-5edd8f9289fb")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a9085af1-bb8b-4f6e-bff0-c32ebe30f28e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 -0.9 180)
+		(size 0.75 0.75)
+		(drill 0.75)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "89e22a7f-eaa8-4b16-8b3a-37cd6154ea23")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0.9 180)
+		(size 0.75 0.75)
+		(drill 0.75)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "b481d171-0e85-4775-b632-36fe9b9ad5b2")
+	)
+	(pad "1" smd rect
+		(at -2.1 0 180)
+		(size 0.8 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f1656eb0-75ca-42ec-befb-0e8c745fd838")
+	)
+	(pad "2" smd rect
+		(at 2.1 0 180)
+		(size 0.8 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "33027f8a-7e2d-4858-b842-e5ec832653dc")
+	)
+	(model "/Users/semiconmediapvtltd/Desktop/KicadLib/3x4x2.pretty/3x4x2mm - 2 Pad.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

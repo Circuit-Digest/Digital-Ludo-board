@@ -1,0 +1,391 @@
+(footprint "74HC595DQ100118"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "74HC595D-Q100,118-2")
+	(tags "Integrated Circuit")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "7adb71fe-2264-44da-9f2c-587d85d3978e")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(property "Value" "74HC595D"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ae183d99-a654-49f5-9a88-08bb8fb7b9f6")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(property "Footprint" "74HC595D:74HC595DQ100118"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "41ba15a7-e7b9-4eda-9bde-b6f48c1838a8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/74HC_HCT595_Q100.pdf"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8a590beb-cd0b-40a5-88c9-3afe0cb552cf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "74HC(T)595-Q100 - 8-bit serial-in, serial or parallel-out shift register with output latches; 3-state@en-us"
+		(at 335.69272 159.53349 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "95ed7696-52f5-4448-8bc9-f74326c73285")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "1.75"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c47276e5-a2aa-4618-b4e8-aecf20f3dc3d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Nexperia"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b7c06d29-21bc-4849-bf65-149f9dc7b46a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "74HC595D-Q100,118"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e7427dfb-ad97-498e-85e2-9765ffb5fea4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "771-74HC595D-Q100"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e1a1dfd9-9e13-4207-af23-6685ffeb2aaa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/74HC595D-Q100118?qs=1sbE9T7hb3auqb4IeRpHgw%3D%3D"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "12fb5dc2-0d3d-4c92-8920-76603bfa65c3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 4.95 -1.6)
+		(end 4.95 1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "253d3618-d85a-4b94-a9e0-18e6781cdce7")
+	)
+	(fp_line
+		(start -4.495 4.3)
+		(end -4.495 4.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a3a00e33-fbeb-400f-8033-0102d3a76014")
+	)
+	(fp_line
+		(start -4.495 4.199999)
+		(end -4.495 4.199999)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4409d8ba-6d76-4630-aebe-16d5c3896ec7")
+	)
+	(fp_line
+		(start -4.95 -1.6)
+		(end -4.95 1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "925492d2-8d1b-4c34-bc80-8db7799261b8")
+	)
+	(fp_arc
+		(start -4.495 4.3)
+		(mid -4.545002 4.249999)
+		(end -4.495 4.199999)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d855f024-60ba-44cc-b46a-5dab1953c03b")
+	)
+	(fp_arc
+		(start -4.495 4.199999)
+		(mid -4.445001 4.25)
+		(end -4.495 4.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "95ce1a28-2fa8-46cf-825a-b0c8bb2b01bc")
+	)
+	(fp_line
+		(start 5.95 4.7)
+		(end -5.95 4.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1790f234-0be6-48b0-9a53-142781b6a2f3")
+	)
+	(fp_line
+		(start 5.95 -4.7)
+		(end 5.95 4.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ede43aa1-41d4-42c5-8d04-0add0e81dc9e")
+	)
+	(fp_line
+		(start -5.95 4.7)
+		(end -5.95 -4.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ef726d7f-56ca-4d0b-8faa-5f061786f530")
+	)
+	(fp_line
+		(start -5.95 -4.7)
+		(end 5.95 -4.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ec9b3fba-c56a-491b-8411-ac26c4bfdd74")
+	)
+	(fp_line
+		(start 4.95 1.95)
+		(end -4.95 1.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7c7ef816-9005-477a-96b1-1d6cdd41d413")
+	)
+	(fp_line
+		(start 4.95 -1.95)
+		(end 4.95 1.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "eb3c92bf-fe4c-48dd-8b91-a0e33dfaf50e")
+	)
+	(fp_line
+		(start -4.95 1.95)
+		(end -4.95 -1.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2891bc3f-2a13-4d9c-a77a-61c6d0f4a04b")
+	)
+	(fp_line
+		(start -4.95 -1.95)
+		(end 4.95 -1.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b033659b-87f2-49e1-baec-784bd8a9b2b6")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "171abd64-e8d2-4ac1-8658-5d4b7c05f6bd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -4.495 2.825 180)
+		(size 0.8 1.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "214fa30b-b952-4268-b3e6-e467b71abc9d")
+	)
+	(pad "2" smd rect
+		(at -3.175 2.825 180)
+		(size 0.7 1.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "c0c74576-2afd-41b6-aedc-8c2b505a4334")
+	)
+	(pad "3" smd rect
+		(at -1.905 2.825 180)
+		(size 0.7 1.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e58b414a-1e56-4521-aa7e-94cd3ba3fa48")
+	)
+	(pad "4" smd rect
+		(at -0.635 2.825 180)
+		(size 0.7 1.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "ec6ebb13-7315-4ebd-8768-79bb60dbff6e")
+	)
+	(pad "5" smd rect
+		(at 0.635 2.825 180)
+		(size 0.7 1.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "aff45b27-f1f1-4057-a371-86c0f5529fff")
+	)
+	(pad "6" smd rect
+		(at 1.905 2.825 180)
+		(size 0.7 1.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "52b1a1f9-519a-48e4-8fca-dbfd5c0d0271")
+	)
+	(pad "7" smd rect
+		(at 3.175 2.825 180)
+		(size 0.7 1.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "db4c657a-e6ff-4aa5-b608-dcaee83c34fd")
+	)
+	(pad "8" smd rect
+		(at 4.495 2.825 180)
+		(size 0.8 1.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "5caa28d2-870a-4c4d-9573-1ee922edcbb2")
+	)
+	(pad "9" smd rect
+		(at 4.495 -2.825 180)
+		(size 0.8 1.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "619e021b-9df9-41b0-a855-63ed2227d7cb")
+	)
+	(pad "10" smd rect
+		(at 3.175 -2.825 180)
+		(size 0.7 1.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e85a16b1-5213-4da6-8968-2f7fa49fd87d")
+	)
+	(pad "11" smd rect
+		(at 1.905 -2.825 180)
+		(size 0.7 1.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "cc89d041-b992-4818-9e78-193137ac362f")
+	)
+	(pad "12" smd rect
+		(at 0.635 -2.825 180)
+		(size 0.7 1.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "5687cab2-57b7-4c2b-a250-3b80c761ed73")
+	)
+	(pad "13" smd rect
+		(at -0.635 -2.825 180)
+		(size 0.7 1.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "799c4fbe-3d7e-4a5c-935a-1d7485af610c")
+	)
+	(pad "14" smd rect
+		(at -1.905 -2.825 180)
+		(size 0.7 1.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "b508c271-1a0b-4797-9bdf-b81f6ed38778")
+	)
+	(pad "15" smd rect
+		(at -3.175 -2.825 180)
+		(size 0.7 1.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "18957b3a-d759-4e38-af38-58fab4ca33f5")
+	)
+	(pad "16" smd rect
+		(at -4.495 -2.825 180)
+		(size 0.8 1.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "9ded072e-ac0d-47e0-bf22-033368d04389")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-16_4.55x10.3mm_P1.27mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
+)
