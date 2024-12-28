@@ -1,4 +1,5 @@
 # Digital-Ludo-board
+<img src="https://github.com/jobitjoseph/Digital-Ludo-board/blob/b7a14a51adeb144ec9624a0bab658bc6e6cb5062/Images/IMG_0016.jpg" width="" alt="alt_text" title="image_tooltip">
 ## Gallery
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
