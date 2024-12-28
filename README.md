@@ -8,24 +8,24 @@
   <tr>
     <td align="center">
       <a href="https://github.com/jobitjoseph/Digital-Ludo-board/blob/b7a14a51adeb144ec9624a0bab658bc6e6cb5062/Images/IMG_0016.jpg" target="_blank">
-        <img src="https://github.com/jobitjoseph/Digital-Ludo-board/blob/b7a14a51adeb144ec9624a0bab658bc6e6cb5062/Images/IMG_0016.jpg" alt="Image 1" width="200">
+        <img src="https://github.com/jobitjoseph/Digital-Ludo-board/blob/b7a14a51adeb144ec9624a0bab658bc6e6cb5062/Images/IMG_0016.jpg" alt="Image 1" width="400">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/jobitjoseph/Digital-Ludo-board/blob/ef0574b0e37cc6b18bce47278ad40f484cababb1/Images/LudoRender1.png" target="_blank">
-        <img src="https://github.com/jobitjoseph/Digital-Ludo-board/blob/ef0574b0e37cc6b18bce47278ad40f484cababb1/Images/LudoRender1.png" alt="Image 2" width="200">
+      <a href="https://github.com/jobitjoseph/Digital-Ludo-board/blob/fb9c06605a7f2c914b765a0e7e6bfde6a9d47ad6/Images/IMG_0014.jpg" target="_blank">
+        <img src="https://github.com/jobitjoseph/Digital-Ludo-board/blob/fb9c06605a7f2c914b765a0e7e6bfde6a9d47ad6/Images/IMG_0014.jpg" alt="Image 2" width="400">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/jobitjoseph/Digital-Ludo-board/blob/ef0574b0e37cc6b18bce47278ad40f484cababb1/Images/LudoRender2.png" target="_blank">
-        <img src="https://github.com/jobitjoseph/Digital-Ludo-board/blob/ef0574b0e37cc6b18bce47278ad40f484cababb1/Images/LudoRender2.png" alt="Image 3" width="200">
+      <a href="https://github.com/jobitjoseph/Digital-Ludo-board/blob/ef0574b0e37cc6b18bce47278ad40f484cababb1/Images/LudoRender1.png" target="_blank">
+        <img src="https://github.com/jobitjoseph/Digital-Ludo-board/blob/ef0574b0e37cc6b18bce47278ad40f484cababb1/Images/LudoRender1.png" alt="Image 3" width="400">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/jobitjoseph/Digital-Ludo-board/blob/ef0574b0e37cc6b18bce47278ad40f484cababb1/Images/LudoRender3.png" target="_blank">
-        <img src="https://github.com/jobitjoseph/Digital-Ludo-board/blob/ef0574b0e37cc6b18bce47278ad40f484cababb1/Images/LudoRender3.png" alt="Image 4" width="200">
+      <a href="https://github.com/jobitjoseph/Digital-Ludo-board/blob/ef0574b0e37cc6b18bce47278ad40f484cababb1/Images/LudoRender2.png" target="_blank">
+        <img src="https://github.com/jobitjoseph/Digital-Ludo-board/blob/ef0574b0e37cc6b18bce47278ad40f484cababb1/Images/LudoRender2.png" alt="Image 4" width="400">
       </a>
     </td>
   </tr>
