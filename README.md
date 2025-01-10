@@ -1,4 +1,4 @@
-# Digital-Ludo-board(https://circuitdigest.com/microcontroller-projects/build-a-smart-digital-game-board-using-multicolour-pcb)
+# [Digital-Ludo-board](https://circuitdigest.com/microcontroller-projects/build-a-smart-digital-game-board-using-multicolour-pcb)
 
 ![Main Image](https://github.com/jobitjoseph/Digital-Ludo-board/blob/b7a14a51adeb144ec9624a0bab658bc6e6cb5062/Images/IMG_0016.jpg)
 
